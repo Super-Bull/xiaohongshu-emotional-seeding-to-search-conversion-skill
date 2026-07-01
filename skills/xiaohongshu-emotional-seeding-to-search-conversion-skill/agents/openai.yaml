@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书情绪种草到搜索成交"
+  short_description: "先弄清卖给谁、怎么种草、用户搜什么、凭什么信你、怎么行动"
+  default_prompt: "Use $xiaohongshu-commercial-chain-skill to clarify who the merchant sells to, how to seed, what users search, why users trust, and what action follows."
